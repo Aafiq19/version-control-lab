@@ -1,1 +1,1 @@
-Hello Git...git init
+Hello Git..git init
